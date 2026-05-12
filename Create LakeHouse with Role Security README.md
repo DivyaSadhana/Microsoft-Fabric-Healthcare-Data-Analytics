@@ -4,3 +4,14 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bddb1da-735f-46e6-8d25-93b668c748ff" />
 3. The data source file is available under file folder. The data table created from the uploaded file will be available under Table folder of Lake House.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2b55e63-9379-46c3-938f-93c935914b6a" />
+4. Assign Role based security by creating a new role and grant permissions.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5794d0b6-22d1-4aa5-b90d-e4394461c6cd" />
+5. Follow below steps to create roles and grant permissions.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6e8f720-99e6-46d3-99ee-e977a8b090be" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cb9039e-e6a5-4488-81e2-a3ae721025f0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9cfc1d6-ae19-43f1-a42a-2fd36805c8b4" />
+6. Create a semantic model and save it on Workspace.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9a27717-c081-41ec-b4b3-f2466c298244" />
+
+
+
