@@ -10,8 +10,11 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6e8f720-99e6-46d3-99ee-e977a8b090be" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cb9039e-e6a5-4488-81e2-a3ae721025f0" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9cfc1d6-ae19-43f1-a42a-2fd36805c8b4" />
-6. Create a semantic model and save it on Workspace.
+6. Create a semantic model and save it on Patient Workspace.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9a27717-c081-41ec-b4b3-f2466c298244" />
+7. Semantic Model was published on the respective Workspace.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f034ab3-c4c1-4bc0-bf09-87e560b2bc84" />
+
 
 
 
