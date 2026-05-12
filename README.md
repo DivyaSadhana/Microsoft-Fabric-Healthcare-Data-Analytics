@@ -2,3 +2,6 @@
 2. Create a New Lake House to upload the files. Create a table from the file uploaded if needed.
 3. Once data is ready, append security by granting roles and priviliges.
 4. Create a Data Model and publish on the workspace to build BI reports.
+
+Product Backlog:
+1. Create pipelines, copy jobs, to create a tables on warehouses.
