@@ -1,4 +1,4 @@
-1. Create a new Lake House 'Lake_House' as a New Item on 'Patient Workspace'.
+1. Create a new Workspace 'Patient Workspace'. On the workspace, create a new Lake House 'Lake_House' as a New Item on 'Patient Workspace'.
 <img width="1909" height="686" alt="image" src="https://github.com/user-attachments/assets/5bff3884-f8d2-4632-939d-14f811c93e24" />
 2. Upload 'Insurance' dataset on the File Folder.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec4093c9-99a0-456b-b4e4-eb634669b607" />
