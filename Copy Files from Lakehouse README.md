@@ -8,7 +8,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1be21956-8163-42fe-9fc9-0cb7a0117e2c" />
 5. Verify Source & Destination details. Choose the run time.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a247d0b9-5c7a-474a-8f5b-c5103b0a7ab8" />
-6. Run the copy job. Verify the status to confirm the copy job is complete.
+6. Run the copy job. Verify the status to confirm the copy job is complete. As per the given instructions, the copy job happens every 15mints.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f59007cd-3380-4a41-a0d7-38a0077a208f" />
 
 
