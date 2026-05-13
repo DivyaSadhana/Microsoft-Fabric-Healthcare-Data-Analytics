@@ -10,7 +10,12 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e620b3c-bf05-4b0b-9cb5-ccda4f012444" />
 6. Deploy the solutions by selecting the checkbox 'Terms of Service'. Expand the datasets to view the tables to be loaded.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e23a10b-20ae-4df3-95d3-95432e68a2be" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6512b19d-b9f1-4927-b8e6-fffbd30f6abe" />
+7. Ensure all the files are loaded.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a7a8fae-0c07-4658-a37d-c7889513746a" />
+8. Verify the loaded tables.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/318ec198-ecfb-484a-8e4d-502011315bca" />
+
+
 
 
 
