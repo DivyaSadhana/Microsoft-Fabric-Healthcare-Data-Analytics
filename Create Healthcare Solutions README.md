@@ -14,6 +14,15 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a7a8fae-0c07-4658-a37d-c7889513746a" />
 8. Verify the loaded tables.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/318ec198-ecfb-484a-8e4d-502011315bca" />
+9. Verify Pipeline Templates.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40d55d1f-884b-499d-a276-357e142757e8" />
+10. Select 'Pipeline' option on Get Data to create a new Pipeline 'Data Solutions' on Patient Workspace.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02b3ef13-1426-470f-a028-910ccbe24e4e" />
+11. Navigate to the Patient Workspace and select the new Pipeline 'Data Solutions'. Click the option 'Copy Data' under 'Pipeline' option.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e540f046-de88-49be-aa0c-a6fc708e98f8" />
+
+
+
 
 
 
