@@ -10,6 +10,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a247d0b9-5c7a-474a-8f5b-c5103b0a7ab8" />
 6. Run the copy job. Verify the status to confirm the copy job is complete. As per the given instructions, the copy job happens every 15mints.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f59007cd-3380-4a41-a0d7-38a0077a208f" />
+7. After initial ingestion, the incremental load would be exceuted automatically without manual intervention.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f568d23-5d8e-4142-aa88-06f3def549f6" />
+
 
 
 
