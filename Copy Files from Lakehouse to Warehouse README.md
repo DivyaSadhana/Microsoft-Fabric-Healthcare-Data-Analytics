@@ -6,7 +6,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cba8651-af6e-4201-bb56-a906be829749" />
 4. Choose the 'Copy' type whether 'Append' or 'Merge' or 'SCD2 (Slow Changinging Dimension 2)'.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4092ab1-4cac-4c45-9b17-7768db3329ad" />
-5. Verify the mapping.
+5. Verify the mapping of column names and data format.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1be21956-8163-42fe-9fc9-0cb7a0117e2c" />
 6. Verify Source & Destination details. Choose the run time.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a247d0b9-5c7a-474a-8f5b-c5103b0a7ab8" />
