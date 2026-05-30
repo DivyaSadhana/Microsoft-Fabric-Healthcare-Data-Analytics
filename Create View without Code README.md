@@ -18,6 +18,8 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87ce1db0-45eb-41d7-b5a4-dbbe8a902875" />
 9. The View created will be displayed under 'Views' drop down. With the 'Latest View' created, a visualization result or a new table could be created or the data could be downloaded as excel as shown in screenshot.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32ab2755-e113-415d-9e06-cbc8ec0a3e56" />
+<img width="1918" height="1040" alt="image" src="https://github.com/user-attachments/assets/c3d39909-ead5-4582-806c-4bceba7a3cdf" />
+
 
 
 
