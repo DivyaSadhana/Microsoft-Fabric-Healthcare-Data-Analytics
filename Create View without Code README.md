@@ -1,4 +1,4 @@
-1. Select 'New Visual Query' option on 'My Queries' under 'Queries'.
+1. Select 'New Visual Query' option on 'My Queries' under 'Queries' on the Warehouse.
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/3d067a79-6d74-483e-bcf6-e5b947cb4fab" />
 2. Drag & Drop the tables into Visual Query Tab.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d8096e8-ade2-4f4f-acf0-eb01e2f4b3b6" />
